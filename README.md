@@ -2,7 +2,7 @@ Watashiwa Kaigi Skisky
 ======================
 Folder Level Script File of Adobe Acrobat DC for the purpuse of formatting KAIGI (meeting) documents. This script has been made according to Japanese bizarre KAIGI customs, and thus written in Japanese version only.
 
-![サンプル](./img/01.png)
+<img src="./img/01.png" width="600" alt="サンプル">
 
 ## License
 
@@ -19,19 +19,19 @@ at your option.
 ## 使用例
 
 ### 事前設定
-![事前設定](https://github.com/acknak/watashiwa-kaigi-skisky/blob/master/img/07.png)
+<img src="./img/07.png" width="500" alt="事前設定">
 
 ### ページ番号付番
-![Renumber Pages](https://github.com/acknak/watashiwa-kaigi-skisky/blob/master/img/03.png)
+<img src="./img/03.png" width="400" alt="Renumber Pages">
 
 ### 機密性付与
-![Set Confidentiality](https://github.com/acknak/watashiwa-kaigi-skisky/blob/master/img/04.png)
+<img src="./img/04.png" width="400" alt="Set Confidentiality">
 
 ### 資料番号付番
-![Set Document Number](https://github.com/acknak/watashiwa-kaigi-skisky/blob/master/img/05.png)
+<img src="./img/05.png" width="400" alt="Set Document Number">
 
 ### 資料番号付番
-![Set Document Security](https://github.com/acknak/watashiwa-kaigi-skisky/blob/master/img/06.png)
+<img src="./img/06.png" width="400" alt="Set Document Security">
 
 ## 使用例
-![使用結果](https://github.com/acknak/watashiwa-kaigi-skisky/blob/master/img/01.png)
+<img src="./img/02.png" width="500" alt="使用例">
