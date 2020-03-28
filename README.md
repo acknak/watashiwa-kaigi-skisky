@@ -17,6 +17,9 @@ This project is licensed under either of
 at your option.
 
 ## 使用例
+<img src="./img/02.png" width="500" alt="使用例">
+
+## 使い方
 
 ### 事前設定
 <img src="./img/07.png" width="500" alt="事前設定">
@@ -32,6 +35,3 @@ at your option.
 
 ### 資料番号付番
 <img src="./img/06.png" width="400" alt="Set Document Security">
-
-## 使用例
-<img src="./img/02.png" width="500" alt="使用例">
